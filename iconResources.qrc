@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/imgRec">
+        <file>icons/about.png</file>
+        <file>icons/aboutMe2.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/files.png</file>
+        <file>icons/files2.png</file>
+    </qresource>
+</RCC>

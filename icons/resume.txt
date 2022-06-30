@@ -1,0 +1,48 @@
+﻿
+				      Soumen Mallick
+
+											+91 9732388937
+											Jhargram, Kolkata
+EDUCATION
+
+B.Tech, Computer Science & Engineering
+College Of Engineering & Management, Kolaghat
+2019 - 2023
+CGPA: 9.50/10
+
+Senior Secondary (XII), Science
+PJI
+(WBCHSE board)
+Year of completion: 2018
+
+TRAININGS
+
+Introduction To Programming With C
+Coursera, Online
+Nov 2020 - Dec 2020
+
+PROJECTS
+
+1.C++ STL Container Implementation
+
+2.BigInteger Implementation in C Language
+
+3.TIC TAC TOE Game with C language and C graphics
+Aug 2021 - Aug 2021
+
+SKILLS 
+C , C++ , Data Structure and Algorithms , OOP , SQL , Java , Problem Solving
+
+ADDITIONAL DETAILS
+
+● 3 Star Competitive Programmer in
+CodeChef.
+● Intermediate C programmer
+certi ed by HackerRank.
+●Problem Solving certi ed by
+HackerRank.
+● HackerRank Gold badge in C++
+● HackerRank Gold badge in Problem
+Solving
+● Quali ed for 3rd round in SNACKDOWN21 , CodeChef
+(a Worldwide Programming contest)
