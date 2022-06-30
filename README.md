@@ -3,7 +3,7 @@
 
 It is a basic NotePad application, where we can create and save text files.
 There is several font options . Here we can Bold/UnBold an individual text .
-The option of Superscript and Subscript is also available here.
+The option of Superscript and Subscript is also available here.The "About me" section is there to show my resume.
 
 
 
