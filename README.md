@@ -38,5 +38,6 @@ and documentations on QT creator.
 - Showing my Resume after clicking on "About me" .
 - Open existing files .
 - Create and Save new files .
+- undo and redo options.
 - Different font options .
 
