@@ -2,7 +2,7 @@
 # NotePad using QT Creator in C++
 
 It is a basic NotePad application, where we can create and save text files.
-There is several font options . Here we can Bold/UnBold individual texts .
+There is several font options . Here we can Bold/UnBold an individual text .
 The option of Superscript and Subscript is also available here.
 
 
@@ -33,7 +33,7 @@ I was able to learn and implement different classes and methods needed, with the
 and documentations on QT creator.
 ## Features
 
-- Bold and Unbold of individual text .
+- Bold and Unbold of an individual text .
 - Superscript and Subscript  functionality .
 - Showing my Resume after clicking on "About me" .
 - Open existing files .
